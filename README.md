@@ -28,6 +28,9 @@ My current fields of interest include:
 * Machine Learning
 
 
+I love programming, searching 
+
+
 
 ## 📫 Contact Me
 [![Twitter: ilangiel](https://img.shields.io/twitter/follow/ilangiel?style=social)](https://twitter.com/ilangiel)
