@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="img/bar.png">
+<img src="/img/bar.png">
 
 I'm a PhD student in Universidad Autónoma del Estado de México and Universitat Jaume I
 
