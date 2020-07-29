@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img src="/img/bar.png">
+![Image of Yaktocat](https://github.com/ilangiel/ilangiel/blob/master/img/bar.jpg)
 
 I'm a PhD student in Universidad Autónoma del Estado de México and Universitat Jaume I
 
