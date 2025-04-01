@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![Image of Yaktocat](https://github.com/ilangiel/ilangiel/blob/master/img/bar.jpg)
-
+-->
 I'm a Postdoctoral Fellow
 
 
