@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Image of Yaktocat](https://github.com/ilangiel/ilangiel/blob/master/img/bar.jpg)
 
-I'm a PhD student in Universidad Autónoma del Estado de México and Universitat Jaume I
+I'm a Postdoctoral Fellow
 
 
 My current fields of interest include:
